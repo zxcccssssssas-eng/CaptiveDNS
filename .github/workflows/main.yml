@@ -1,4 +1,4 @@
-name: Build CaptiveDNS
+name: Build CaptiveDNSi
 
 on:
   push:
